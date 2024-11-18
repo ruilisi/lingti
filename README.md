@@ -4,7 +4,8 @@
 
 - 灵缇赛事编排信息化系统 (gd.lingti.com)
 - 灵缇复式发牌机(微信搜索"灵缇复式发牌机")
-- 运动员管理及排名系统 (样例: https://gd.lingti.com/qingdao_ranks)
+- [运动员管理及排名系统](/elo_rank.md)
+  (样例: https://gd.lingti.com/qingdao_ranks)
 - 灵缇电竞加速软件(game.lingti.com)
 - 协码啦效率软件(xiemala.com)
 - 协码啦 AI(ai.xiemala.com)
